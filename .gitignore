@@ -1,0 +1,21 @@
+Config.xcconfig
+# Xcode-specific files (build-related, caches, user settings)
+DerivedData/
+*.xcworkspace
+xcuserdata/
+*.xcuserstate
+# Ignore build files
+build/
+*.app
+*.ipa
+*.dSYM
+*.xcarchive
+# Ignore temporary files
+*.swp
+*.swo
+*.DS_Store
+*.lock
+# Ignore Playgrounds and automatic Xcode data
+playground.xcworkspace/
+*.playground/
+*.playgroundbook/
